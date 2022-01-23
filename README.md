@@ -1,5 +1,5 @@
 # GULP
-This project to POC with Gulp tecnologie to learning and testing
+This project is a POC to test the Gulp tecnology and learning it
 
 
 # To run project:
